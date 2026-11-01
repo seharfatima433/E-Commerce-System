@@ -294,5 +294,3 @@ This project was built as part of the Devixo Solutions Internship Program (Task 
 <div align="center">
 Made with ❤️ using Laravel & Tailwind CSS
 </div>
-#   E - C o m m e r c e - S y s t e m  
- 
