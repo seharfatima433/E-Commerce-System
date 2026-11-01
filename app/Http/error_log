@@ -1,0 +1,168 @@
+[30-Aug-2026 06:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[04-Sep-2026 17:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[10-Sep-2026 20:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[12-Sep-2026 21:03:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[14-Sep-2026 19:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[16-Sep-2026 11:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[17-Sep-2026 02:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[18-Sep-2026 19:57:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[20-Sep-2026 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[21-Sep-2026 16:28:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[24-Sep-2026 22:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[26-Sep-2026 20:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[27-Sep-2026 07:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[28-Sep-2026 21:26:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[30-Sep-2026 21:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[01-Oct-2026 17:25:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[02-Oct-2026 19:07:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[04-Oct-2026 08:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[04-Oct-2026 08:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[04-Oct-2026 21:44:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[05-Oct-2026 17:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[06-Oct-2026 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[08-Oct-2026 21:31:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[09-Oct-2026 10:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[10-Oct-2026 22:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[12-Oct-2026 19:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[14-Oct-2026 16:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[14-Oct-2026 21:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[15-Oct-2026 05:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[16-Oct-2026 19:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[18-Oct-2026 15:14:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[18-Oct-2026 15:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[18-Oct-2026 22:27:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[19-Oct-2026 05:45:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[20-Oct-2026 20:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[22-Oct-2026 21:01:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[24-Oct-2026 19:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[25-Oct-2026 06:26:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[26-Oct-2026 20:59:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[28-Oct-2026 21:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[29-Oct-2026 02:14:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7
+[30-Oct-2026 19:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Kernel.php on line 7

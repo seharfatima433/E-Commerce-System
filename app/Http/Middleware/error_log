@@ -1,0 +1,176 @@
+[03-Sep-2026 00:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8
+[03-Sep-2026 02:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[03-Sep-2026 05:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[03-Sep-2026 05:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[03-Sep-2026 07:31:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[03-Sep-2026 09:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[03-Sep-2026 09:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[30-Sep-2026 03:37:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Oct-2026 01:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8
+[01-Oct-2026 08:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[01-Oct-2026 09:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[01-Oct-2026 10:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[01-Oct-2026 12:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Oct-2026 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[01-Oct-2026 13:04:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[02-Oct-2026 02:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[04-Oct-2026 03:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[04-Oct-2026 03:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[05-Oct-2026 11:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[06-Oct-2026 02:06:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[06-Oct-2026 05:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[06-Oct-2026 05:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[06-Oct-2026 18:42:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8
+[06-Oct-2026 18:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8
+[07-Oct-2026 17:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[07-Oct-2026 17:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[08-Oct-2026 04:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[08-Oct-2026 04:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[08-Oct-2026 07:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[08-Oct-2026 07:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[08-Oct-2026 07:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[09-Oct-2026 23:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8
+[10-Oct-2026 04:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[10-Oct-2026 04:07:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[20-Oct-2026 01:03:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[20-Oct-2026 01:03:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[20-Oct-2026 01:03:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[28-Oct-2026 17:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[28-Oct-2026 20:26:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustHosts.php on line 7
+[28-Oct-2026 21:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/Authenticate.php on line 7
+[28-Oct-2026 21:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/EncryptCookies.php on line 7
+[28-Oct-2026 21:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrimStrings.php on line 7
+[28-Oct-2026 23:20:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Oct-2026 00:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Middleware/TrustProxies.php on line 8

@@ -1,0 +1,1032 @@
+[15-Aug-2026 23:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[15-Aug-2026 23:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[15-Aug-2026 23:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[15-Aug-2026 23:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[17-Aug-2026 18:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[17-Aug-2026 18:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[17-Aug-2026 18:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[17-Aug-2026 18:44:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[19-Aug-2026 20:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[19-Aug-2026 20:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[19-Aug-2026 20:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[19-Aug-2026 20:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[21-Aug-2026 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[21-Aug-2026 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[21-Aug-2026 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[21-Aug-2026 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[23-Aug-2026 11:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[23-Aug-2026 11:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[23-Aug-2026 11:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[23-Aug-2026 11:57:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[23-Aug-2026 11:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[23-Aug-2026 11:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[23-Aug-2026 11:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[23-Aug-2026 11:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[23-Aug-2026 21:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[23-Aug-2026 21:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[23-Aug-2026 21:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[23-Aug-2026 21:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[25-Aug-2026 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[25-Aug-2026 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[25-Aug-2026 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[25-Aug-2026 20:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[27-Aug-2026 23:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[27-Aug-2026 23:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[27-Aug-2026 23:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[27-Aug-2026 23:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[29-Aug-2026 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[29-Aug-2026 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[29-Aug-2026 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[29-Aug-2026 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[30-Aug-2026 02:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[30-Aug-2026 07:30:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[30-Aug-2026 12:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[01-Sep-2026 02:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[01-Sep-2026 02:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[01-Sep-2026 02:43:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[01-Sep-2026 02:43:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[02-Sep-2026 05:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[02-Sep-2026 16:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[02-Sep-2026 19:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[02-Sep-2026 19:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[02-Sep-2026 19:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[02-Sep-2026 19:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[03-Sep-2026 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[03-Sep-2026 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[03-Sep-2026 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[03-Sep-2026 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[03-Sep-2026 09:04:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[03-Sep-2026 13:42:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[03-Sep-2026 21:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[04-Sep-2026 21:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[04-Sep-2026 21:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[04-Sep-2026 21:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[04-Sep-2026 21:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[05-Sep-2026 01:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[06-Sep-2026 04:06:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[06-Sep-2026 08:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[06-Sep-2026 21:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[06-Sep-2026 21:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[06-Sep-2026 21:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[06-Sep-2026 21:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[08-Sep-2026 18:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[08-Sep-2026 18:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[08-Sep-2026 18:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[08-Sep-2026 18:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[10-Sep-2026 20:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[10-Sep-2026 20:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[10-Sep-2026 20:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[10-Sep-2026 20:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[12-Sep-2026 21:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[12-Sep-2026 21:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[12-Sep-2026 21:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[12-Sep-2026 21:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[12-Sep-2026 22:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[13-Sep-2026 03:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[13-Sep-2026 17:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[13-Sep-2026 19:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[14-Sep-2026 04:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[14-Sep-2026 14:06:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[14-Sep-2026 19:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[14-Sep-2026 19:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[14-Sep-2026 19:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[14-Sep-2026 19:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[17-Sep-2026 02:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[17-Sep-2026 02:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[17-Sep-2026 02:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[17-Sep-2026 02:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[17-Sep-2026 22:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[17-Sep-2026 22:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[17-Sep-2026 22:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[18-Sep-2026 01:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[18-Sep-2026 19:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[18-Sep-2026 19:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[18-Sep-2026 19:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[18-Sep-2026 19:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[20-Sep-2026 19:05:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[20-Sep-2026 20:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[20-Sep-2026 20:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[20-Sep-2026 20:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[20-Sep-2026 20:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[21-Sep-2026 16:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[21-Sep-2026 16:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[21-Sep-2026 16:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[21-Sep-2026 16:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[24-Sep-2026 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[24-Sep-2026 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[24-Sep-2026 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[24-Sep-2026 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[26-Sep-2026 20:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[26-Sep-2026 20:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[26-Sep-2026 20:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[26-Sep-2026 20:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[27-Sep-2026 02:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[27-Sep-2026 08:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[27-Sep-2026 15:28:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[28-Sep-2026 11:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[28-Sep-2026 13:08:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[28-Sep-2026 21:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[28-Sep-2026 21:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[28-Sep-2026 21:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[28-Sep-2026 21:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[30-Sep-2026 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[30-Sep-2026 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[30-Sep-2026 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[30-Sep-2026 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[01-Oct-2026 08:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[01-Oct-2026 17:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[01-Oct-2026 17:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[01-Oct-2026 17:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[01-Oct-2026 17:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[02-Oct-2026 19:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[02-Oct-2026 19:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[02-Oct-2026 19:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[02-Oct-2026 19:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[04-Oct-2026 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[04-Oct-2026 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[04-Oct-2026 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[04-Oct-2026 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[04-Oct-2026 08:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[04-Oct-2026 08:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[04-Oct-2026 08:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[04-Oct-2026 08:27:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[04-Oct-2026 21:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[04-Oct-2026 21:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[04-Oct-2026 21:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[04-Oct-2026 21:42:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[04-Oct-2026 23:54:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[05-Oct-2026 10:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[05-Oct-2026 10:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[05-Oct-2026 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[05-Oct-2026 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[05-Oct-2026 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[05-Oct-2026 17:39:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[06-Oct-2026 09:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[06-Oct-2026 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[06-Oct-2026 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[06-Oct-2026 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[06-Oct-2026 20:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[08-Oct-2026 21:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[08-Oct-2026 21:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[08-Oct-2026 21:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[08-Oct-2026 21:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[09-Oct-2026 10:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[09-Oct-2026 10:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[09-Oct-2026 10:02:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[09-Oct-2026 10:02:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[10-Oct-2026 22:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[10-Oct-2026 22:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[10-Oct-2026 22:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[10-Oct-2026 22:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[12-Oct-2026 19:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[12-Oct-2026 19:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[12-Oct-2026 19:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[12-Oct-2026 19:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[14-Oct-2026 21:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[14-Oct-2026 21:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[14-Oct-2026 21:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[14-Oct-2026 21:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[15-Oct-2026 05:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[15-Oct-2026 05:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[15-Oct-2026 05:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[15-Oct-2026 05:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[16-Oct-2026 19:51:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[16-Oct-2026 19:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[16-Oct-2026 19:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[16-Oct-2026 19:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[18-Oct-2026 15:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[18-Oct-2026 15:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[18-Oct-2026 15:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[18-Oct-2026 15:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[18-Oct-2026 15:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[18-Oct-2026 15:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[18-Oct-2026 15:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[18-Oct-2026 15:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[18-Oct-2026 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[18-Oct-2026 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[18-Oct-2026 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[18-Oct-2026 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[18-Oct-2026 22:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[19-Oct-2026 05:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[19-Oct-2026 05:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[19-Oct-2026 05:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[19-Oct-2026 05:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[20-Oct-2026 07:04:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[20-Oct-2026 07:04:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[20-Oct-2026 07:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[20-Oct-2026 20:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[20-Oct-2026 20:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[20-Oct-2026 20:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[20-Oct-2026 20:12:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[20-Oct-2026 20:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[22-Oct-2026 20:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[22-Oct-2026 20:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[22-Oct-2026 20:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[22-Oct-2026 20:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[23-Oct-2026 10:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[23-Oct-2026 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[23-Oct-2026 10:02:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[23-Oct-2026 10:03:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[24-Oct-2026 19:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[24-Oct-2026 19:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[24-Oct-2026 19:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[24-Oct-2026 19:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[24-Oct-2026 20:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[24-Oct-2026 20:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[25-Oct-2026 06:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[26-Oct-2026 06:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[26-Oct-2026 20:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[26-Oct-2026 20:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[26-Oct-2026 20:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[26-Oct-2026 20:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[28-Oct-2026 18:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[28-Oct-2026 21:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[28-Oct-2026 21:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[28-Oct-2026 21:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[28-Oct-2026 21:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[29-Oct-2026 02:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[29-Oct-2026 02:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[29-Oct-2026 02:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[29-Oct-2026 02:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17
+[29-Oct-2026 17:08:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[29-Oct-2026 17:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[29-Oct-2026 17:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[29-Oct-2026 17:08:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[30-Oct-2026 19:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/api.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/api.php on line 7
+[30-Oct-2026 19:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/devlools/public_html/E-Commerce/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/channels.php on line 16
+[30-Oct-2026 19:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/devlools/public_html/E-Commerce/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/console.php on line 17
+[30-Oct-2026 19:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/devlools/public_html/E-Commerce/routes/web.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/routes/web.php on line 17

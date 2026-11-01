@@ -1,0 +1,96 @@
+[14-Aug-2026 10:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php on line 11
+[17-Aug-2026 15:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php on line 9
+[17-Aug-2026 20:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php on line 11
+[19-Aug-2026 10:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php on line 9
+[19-Aug-2026 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php on line 10
+[22-Aug-2026 21:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php on line 12
+[22-Aug-2026 23:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php on line 9
+[11-Sep-2026 23:32:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php on line 11
+[15-Sep-2026 04:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php on line 9
+[19-Sep-2026 06:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php on line 12
+[19-Sep-2026 11:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php on line 9
+[19-Sep-2026 12:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php on line 9
+[19-Sep-2026 15:16:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php on line 10
+[10-Oct-2026 16:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php on line 9
+[12-Oct-2026 02:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/DashboardController.php on line 11
+[13-Oct-2026 08:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/UserController.php on line 9
+[14-Oct-2026 12:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php on line 9
+[17-Oct-2026 00:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php on line 9
+[17-Oct-2026 03:20:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/OrderController.php on line 9
+[17-Oct-2026 04:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CouponController.php on line 9
+[17-Oct-2026 05:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php on line 10
+[17-Oct-2026 06:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php on line 12
+[17-Oct-2026 08:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/ProductController.php on line 12
+[21-Oct-2026 22:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/devlools/public_html/E-Commerce/app/Http/Controllers/Admin/CategoryController.php on line 10
